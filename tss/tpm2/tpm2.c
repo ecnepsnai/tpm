@@ -1,0 +1,9 @@
+#include "tpm2.h"
+#include <tss/tss2_common.h>
+#include <tss/tss2_esys.h>
+#include <tss/tss2_mu.h>
+#include <tss/tss2_sys.h>
+#include <tss/tss2_tcti_device.h>
+#include <tss/tss2_tcti.h>
+#include <tss/tss2_tcti_mssim.h>
+#include <tss/tss2_tpm2_types.h>
