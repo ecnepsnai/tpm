@@ -1,2 +1,5 @@
 vendor/
+.vscode/
 .DS_Store
+tss/include/
+tss/libs/
